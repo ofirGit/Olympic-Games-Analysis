@@ -1,5 +1,5 @@
 
-# Olympic Games Anlysis
+# Olympic Games Analysis
 
 [Olympic Games](https://public.tableau.com/views/OlympicgamesAnalysis/Olympicgames?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
